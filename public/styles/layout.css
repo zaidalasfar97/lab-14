@@ -1,0 +1,24 @@
+div{
+    margin: 20px;
+    border: 1px solid black;
+    margin-bottom: 60px;
+    box-sizing: border-box;
+}
+div *{
+    text-align: center;
+}
+div img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    margin: 0 auto;
+}
+h1 {
+    font-size: 30px;
+    background: black;
+    color: white;
+
+}
